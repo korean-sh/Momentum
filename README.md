@@ -2,8 +2,9 @@
 ## 🚀 Clone Momentum
 
 
-
+* Educated https://nomadcoders.co/
 * Original https://momentumdash.com/
+
 <hr>
 
 
