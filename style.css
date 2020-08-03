@@ -1,0 +1,75 @@
+/*Tag*/
+body {
+  background-color: #2c3e50;
+  text-align: center;
+}
+
+/*Input text*/
+input {
+  width: 220px;
+  height: 50px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+/*To do list*/
+ul {
+  margin-bottom: 30px;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+li span {
+  font-size: 30px;
+  margin-right: 20px;
+}
+
+/*Class*/
+.time {
+  font-size: 400%;
+}
+
+.form,
+.greeting {
+  display: none;
+}
+
+.showing {
+  display: block;
+  font-size: 25px;
+}
+
+/*Delete Button CSS*/
+.delBtn {
+  border: 0px none;
+  background-color: transparent;
+  font-size: 25px;
+}
+
+/*Change Background*/
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.bgImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  animation: fadeIn 0.5s linear;
+}
+
+/*Weather*/
+.js-weather {
+  font-size: 20px;
+}
