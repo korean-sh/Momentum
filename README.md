@@ -1,6 +1,8 @@
 # Momentum
 ## 🚀 Clone Momentum
 
+* Go to result https://korean-sh.github.io/Momentum/
+
 
 * Educated https://nomadcoders.co/
 * Original https://momentumdash.com/
